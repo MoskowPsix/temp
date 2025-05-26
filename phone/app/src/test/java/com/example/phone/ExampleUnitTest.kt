@@ -1,4 +1,4 @@
-package com.example.temp_phone
+package com.example.phone
 
 import org.junit.Test
 
